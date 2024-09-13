@@ -68,5 +68,8 @@
     "lerna": "6.6.2",
     "prettier": "3.3.3",
     "prettier-plugin-organize-imports": "4.0.0"
+  },
+  "dependencies": {
+    "@mockoon/mockoon": "file:"
   }
 }

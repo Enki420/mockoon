@@ -33,6 +33,7 @@
   "dependencies": {
     "@mockoon/commons": "8.4.0",
     "@mockoon/commons-server": "8.4.0",
+    "@mockoon/serverless": "file:",
     "serverless-http": "3.2.0"
   },
   "devDependencies": {

@@ -45,6 +45,7 @@
   },
   "funding": "https://mockoon.com/sponsor-us/",
   "dependencies": {
+    "@mockoon/cli": "file:",
     "@mockoon/commons": "8.4.0",
     "@mockoon/commons-server": "8.4.0",
     "@oclif/core": "3.27.0",

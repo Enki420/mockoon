@@ -29,6 +29,7 @@
   },
   "funding": "https://mockoon.com/sponsor-us/",
   "dependencies": {
+    "@mockoon/cloud": "file:",
     "@mockoon/commons": "8.4.0"
   },
   "devDependencies": {
